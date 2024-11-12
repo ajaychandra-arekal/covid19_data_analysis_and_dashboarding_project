@@ -17,3 +17,5 @@ This project centers on analyzing COVID-19 data to develop a dynamic Business In
 ### Impact
 
 This project exemplifies the application of SQL and Tableau for BI and data analytics, demonstrating how a cohesive ETL and visualization strategy can yield valuable insights. The dashboard not only facilitates a user-friendly exploration of COVID-19 data but also promotes informed public health decisions and underscores the potential of data-driven intelligence in managing global challenges.
+
+View the Dashboard on Tableau Public by following this link: [COVID-19 Dashboard on Tableau Public](https://public.tableau.com/app/profile/ajaychandra.arekal/viz/CovidDashboardProject_17314143400230/Dashboard1?publish=yes)
